@@ -2,13 +2,8 @@
 <<<<<<< HEAD
 mecho
 misho
-=======
-
->>>>>>> cb7262b70711d4f9628ec0cf978c716f2e10c8d6
 ala bala pull example
-<<<<<<< HEAD
 tilian
-=======
 stamat
->>>>>>> 16d13362c21247ec70934dbfa0fcbdeb024fe1b5
+
 
